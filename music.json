@@ -1,68 +1,49 @@
 [
-  {
-      "name": "Rostovskiy RP",
-      "url": "http://wh3606.web3.maze-host.ru/music/enter_.mp3",
-      "time": "8:10"
-    },  
-{
- "name": "Дора Дура",
- "url": "http://wh14687.web1.maze-host.ru/dora-doradura-mp3.mp3",
- "time": "2:14"
- },
-{
- "name": "Конспект",
- "url": "http://wh14687.web1.maze-host.ru/scirena-konspekt-mp3.mp3",
- "time": "2:22"
- },
-
-  {
-      "name": "Я крут",
+    {
+      "name": "Черные глаза",
       "url": "http://insilio-rp.online/univ/blackyey.mp3",
       "time": "5:20"
     },
-{ "name": "Ваня Дмитриенко - Дыши", 
-   "url": "http://wh13023.web1.maze-host.ru/Vanya_Dmitrienko_-_Dyshi_iz_ts_Plaksa_76763205.mp3",
-   "time": "1:51"
- },
- {
- "name": "Ирина Кайратовна - Чина",
- "url": "http://insilio-rp.online/univ/music2.mp3",
- "time": "3:09"
- },
- {
- "name": "EDWXRDX - ZEMLYA",
- "url": "http://insilio-rp.online/univ/music3.mp3",
- "time": "2:24"
- },
- {
- "name": "Айдамир Мугу - Чёрные глаза",
- "url": "http://insilio-rp.online/univ/blackyey.mp3",
- "time": "5:20"
- },
- {
- "name": "10AGE - Зоопарк",
- "url": "http://insilio-rp.online/univ/music4.mp3",
- "time": "*Музыка с матом - 3:01"
- },
- {
- "name": "daryana - Заставлял",
- "url": "http://insilio-rp.online/univ/music5.mp3",
- "time": "Музыка с матом - 2:10"
- },
-{
- "name": "Заказ песни",
- "url": "http://wh14687.web1.maze-host.ru/sakaz1.mp3",
- "time": "Заказал: Egor_Wendorov - 1:49"
- },
-{
- "name": "Заказ песни",
- "url": "http://wh14687.web1.maze-host.ru/zakas2.mp3",
- "time": "Заказал: Egor_Wendorov - хз"
- },
-{
- "name": "Заказ песни",
+    {
+      "name": "Дора Дура",
+      "url": "http://wh14687.web1.maze-host.ru/dora-doradura-mp3.mp3",
+      "time": "2:14"
+    },
+    {
+      "name": "Конспект",
+      "url": "http://wh14687.web1.maze-host.ru/scirena-konspekt-mp3.mp3",
+      "time": "2:22"
+    },
+    {
+      "name": "Ваня Дмитриенко - Дыши",
+      "url": "http://wh13023.web1.maze-host.ru/Vanya_Dmitrienko_-_Dyshi_iz_ts_Plaksa_76763205.mp3",
+      "time": "2:37"
+    },
+    {
+      "name": "Ирина Кайратовна - Чина",
+      "url": "http://insilio-rp.online/univ/music2.mp3",
+      "time": "3:09"
+    },
+    {
+      "name": "Кукла Колдуна",
+      "url": "http://wh14687.web1.maze-host.ru/korol-i-shut_-_kukla-kolduna.mp3",
+      "time": "3:24"
+    },
+    {
+      "name": "daryana - Заставлял",
+      "url": "http://insilio-rp.online/univ/music5.mp3",
+      "time": "2:10"
+    },
+    {
+      "name": "EDWXRDX - ZEMLYA",
+      "url": "http://insilio-rp.online/univ/music3.mp3",
+      "time": "2:24"
+    },
+    {
+ "name": "Мальбэк - Проведи меня до дома мы знакомы до истомы.",
  "url": "http://wh14687.web1.maze-host.ru/sakaz-3.mp3",
- "time": "Заказал: Kirill_Frommy - 2:46"
+ "time": "2:46"
  }
 
-  ]
+
+]
