@@ -1,0 +1,11 @@
+[
+    {
+        "color": "0000ff",
+        "dopname": "(X2)",
+        "maxonline": 1000,
+        "name": "EEE.EDGAR",
+        "online": 47,
+        "edgar_host": "141.95.190.147",
+        "port": 1273
+    }
+]
