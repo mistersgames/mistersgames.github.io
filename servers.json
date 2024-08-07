@@ -1,9 +1,9 @@
 [
     {
-      "color": "FF0000",
+      "color": "000000",
       "dopname": "(X2 АКЦИИ)",
-      "maxonline": 1500,
-      "name": "RED",
-      "online": 1500
+      "maxonline": 1300,
+      "name": "BLACK",
+      "online": 1300
     }
   ]
