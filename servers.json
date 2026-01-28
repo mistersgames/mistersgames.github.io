@@ -1,0 +1,54 @@
+[
+  {
+    "online": "1300",
+    "maxonline": "1300",
+    "color": "000000",
+    "x2": "true",
+    "key": "1424",
+    "name": "BLACK RUSSIA | TEST",
+    "firstname": "Prod. server 1",
+    "secondname": "",
+    "url": "blue.br.online",
+    "ip": "80.242.59.112",
+    "port": "5554"
+  },
+{
+    "online": "1300",
+    "maxonline": "1300",
+    "color": "000000",
+    "x2": "true",
+    "key": "1424",
+    "name": "BLACK RUSSIA | TEST",
+    "firstname": "Prod. server 2",
+    "secondname": "",
+    "url": "blue.br.online",
+    "ip": "80.242.59.112",
+    "port": "5554"
+  },
+{
+    "online": "1300",
+    "maxonline": "1300",
+    "color": "000000",
+    "x2": "true",
+    "key": "1424",
+    "name": "BLACK RUSSIA | TEST",
+    "firstname": "Prod. server 3",
+    "secondname": "",
+    "url": "blue.br.online",
+    "ip": "80.242.59.112",
+    "port": "5554"
+  },
+{
+    "online": "1300",
+    "maxonline": "1300",
+    "color": "000000",
+    "x2": "true",
+    "key": "1424",
+    "name": "BLACK RUSSIA | TEST",
+    "firstname": "Prod. server 4",
+    "secondname": "",
+    "url": "blue.br.online",
+    "ip": "80.242.59.112",
+    "port": "5554"
+  }
+]
